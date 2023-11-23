@@ -1,7 +1,7 @@
 ## Hi <br><img src="" width="20px">
 ### forked from fxc7
 <p align="center">
-<a href="https://github.com/tzgar"><img src=""></a>
+<a href="https://github.com/tzgar"><img src="https://github.com/tzgar/termux-bot-wa/blob/main/src/glitchtext.png"></a>
 </p>
 <br>
 
